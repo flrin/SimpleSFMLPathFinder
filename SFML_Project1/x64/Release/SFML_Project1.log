@@ -1,0 +1,637 @@
+﻿  main.cpp
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(21,37): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(73,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(73,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(117,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(117,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(183,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(183,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(239,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(239,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(292,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(394,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(394,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(395,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(395,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(396,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(396,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(397,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(397,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(405,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(405,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(406,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(406,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(407,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(407,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(408,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(408,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(411,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(411,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(412,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(412,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(413,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(413,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(414,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(414,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(419,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(419,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(420,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(420,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(421,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(421,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(422,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(422,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(425,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(425,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(426,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(426,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(427,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(427,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(428,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(428,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(439,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(439,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(440,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(440,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(441,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(441,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(442,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(442,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(445,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(445,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(446,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(446,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(447,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(447,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(448,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(448,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(453,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(453,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(454,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(454,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(455,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(455,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(456,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(456,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(459,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(459,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(460,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(460,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(461,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(461,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(462,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(462,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(501,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(501,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(503,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(503,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(596,50): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(609,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(611,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(612,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(613,44): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(614,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(615,61): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(616,64): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(634,54): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(644,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(645,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(712,67): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(713,72): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(719,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(737,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(737,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(755,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(785,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(785,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(807,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(807,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(839,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(839,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(845,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(851,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(860,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(860,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(899,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(902,58): warning C4305: '-=': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(903,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(906,57): warning C4305: '+=': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(907,38): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(917,38): warning C4305: 'argument': truncation from 'double' to 'float'
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) class sf::Time __cdecl sf::seconds(float)" (__imp_?seconds@sf@@YA?AVTime@1@M@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::Font(class sf::Font const &)" (__imp_??0Font@sf@@QEAA@AEBV01@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(void)" (__imp_??0Color@sf@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vertex & __cdecl sf::VertexArray::operator[](unsigned __int64)" (__imp_??AVertexArray@sf@@QEAAAEAVVertex@1@_K@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VertexArray::VertexArray(enum sf::PrimitiveType,unsigned __int64)" (__imp_??0VertexArray@sf@@QEAA@W4PrimitiveType@1@_K@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) void __cdecl sf::sleep(class sf::Time)" (__imp_?sleep@sf@@YAXVTime@1@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)
+    Hint on symbols that are defined and could potentially match:
+      "__declspec(dllimport) public: void __cdecl std::basic_ios<char,struct std::char_traits<char> >::clear(int,bool)" (__imp_?clear@?$basic_ios@DU?$char_traits@D@std@@@std@@QEAAXH_N@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Shape::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Shape@sf@@QEBA?AV?$Rect@M@2@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QEAAXAEBVColor@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Text::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Text@sf@@QEBA?AV?$Rect@M@2@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setStyle(unsigned int)" (__imp_?setStyle@Text@sf@@QEAAXI@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Mouse::isButtonPressed(enum sf::Mouse::Button)" (__imp_?isButtonPressed@Mouse@sf@@SA_NW4Button@12@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(class sf::Text &&)" (__imp_??0Text@sf@@QEAA@$$QEAV01@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite &&)" (__imp_??0Sprite@sf@@QEAA@$$QEAV01@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(class sf::Text const &)" (__imp_??0Text@sf@@QEAA@AEBV01@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::VertexArray::~VertexArray(void)" (__imp_??1VertexArray@sf@@UEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Sprite & __cdecl sf::Sprite::operator=(class sf::Sprite const &)" (__imp_??4Sprite@sf@@QEAAAEAV01@AEBV01@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RectangleShape::`default constructor closure'(void)" (__imp_??_FRectangleShape@sf@@QEAAXXZ)
+D:\VisualStudioProjects\SFML_Project1\x64\Release\SFML_Project1.exe : fatal error LNK1120: 58 unresolved externals
